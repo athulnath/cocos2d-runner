@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="map" tilewidth="32" tileheight="32" tilecount="8" columns="4">
+  <image source="map.png" width="128" height="64"/>
+ </tileset>
+ <layer name="background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYB7Fo3gUj+JRPIpJxAC2cgSx
+  </data>
+ </layer>
+ <layer name="floor" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALaAEYgZqIBzQrEbFSgB6u7hor7AGDvAZ0=
+  </data>
+ </layer>
+ <layer name="grass" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDFXATGXz2IGYg4r0KBjeAAA/lwCa
+  </data>
+ </layer>
+</map>
